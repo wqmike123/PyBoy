@@ -1,3 +1,6 @@
+# guide
+https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247493389&idx=1&sn=9bd40c97fdecec34068d097d5cf95213&chksm=fbd18baccca602bac96ef277c284582e46acad43c5dc7f653aea42f1d88d3d042ef157ea4d61&mpshare=1&scene=1&srcid=&sharer_sharetime=1587395468990&sharer_shareid=95a3310b5543ed99cab550bc833176e6&exportkey=AsG6EPzGU8sCAumM7exMavc%3D&pass_ticket=Pb9KQafr4gyK9sx8RPR9b%2BbGxYKnonuDFzGSysrnPBhYd5S32I25wZobXewkEm5X#rd
+
 <p align="center">
 <img src="README/pyboy.svg" width="480">
 </p>
